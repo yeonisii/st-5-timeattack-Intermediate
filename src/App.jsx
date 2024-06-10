@@ -1,5 +1,6 @@
 import "./App.css";
 
+// yarn 용량 부족으로 설치가 안되서 못했어요..! ㅠ
 // TODO: 계산결과를 redux를 이용한 전역상태로 관리해 보세요.
 function App() {
   return (
